@@ -67,7 +67,7 @@
 ![image](https://github.com/Shaerrr/Leisure_Indicator_for_Oldmans_in-Seoul/assets/116930070/08449f10-9070-4d41-8ef8-ef6e10f90394)
  
 ## 6. 프로젝트 참여 인원 & Support
-- 김형후 [GitHub](https://github.com/Shaerrr)/E-mail: dcfjk1234@naver.com
+- 김형후
 - 강재훈 
 - 김소은
 - 김현동
