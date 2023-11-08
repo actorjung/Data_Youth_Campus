@@ -1,6 +1,8 @@
 # 즐기는 노인들 (데이터 청년 캠퍼스 1분반 4조)
 - For Data Youth Campus(2023, SMU) in Korea.
 - 'Indicator for old people(seniors) in Seoul'
+  
+---
 
 ## 1. 프로젝트 목적 및 배경
   ### 목적
@@ -16,7 +18,9 @@
     해당 분야에 집중하였습니다.  
   - 노인층에 대한 여가 관련 지표가 설문 결과이거나, 다양한 환경적 요소를 고려하지 못한 1차원적 지표인 경우가 많았습니다.
     여가와 관련된 다양한 환경 요소를 종합적으로 고려한 지표를 통해 자치구별 여가 수준을 한눈에 파악하고자 합니다.
-  
+
+---
+
 ## 2. About main.ipynb
  - ### Requirements
    - Main 파일은 ipynb 확장자로, 원할한 확인을 위해서는 Jupyter Notebook 이나, Jupyter Lab 사용을 권장드립니다.
@@ -50,6 +54,8 @@
     - code 내 회귀분석은 편의상 OLS로, 차원축소는 편의상 PCA로 표기하였습니다.
     - 8번 항목에서 채택한 OLS의 모델 검증 결과를 볼 수 있습니다. 설명력으로 사용한 지표는 F-statistic 과  Prob F-statistic입니다.
 
+---
+
 ## 3. About Raw data
  - ### Sources
    - [서울시 열린데이터광장](https://data.seoul.go.kr/)
@@ -57,21 +63,30 @@
  - ### Raw_data
    - [Raw_data] 폴더를 통해 프로젝트에 사용된 Raw_data 확인이 가능합니다.
 
+---
+
 ## 4. About Processed Data
   - 모든 가공된 데이터는 csv 확장자로 저장되었습니다.
   - [Data_in_Code] 폴더에서 확인이 가능합니다.
   - [Processing] 폴더에서 전처리 과정이 확인 가능합니다.
 
+---
 
 ## 5. 참고 (Refrences)
-![image](https://github.com/Shaerrr/Leisure_Indicator_for_Oldmans_in-Seoul/assets/116930070/08449f10-9070-4d41-8ef8-ef6e10f90394)
+<img width="908" alt="스크린샷 2023-11-08 오후 3 35 04" src="https://github.com/actorjung/Data_Youth_Campus/assets/112843229/48cc90bb-9c84-4622-86ab-7810bc3c15b0">
+<img width="910" alt="스크린샷 2023-11-08 오후 3 35 28" src="https://github.com/actorjung/Data_Youth_Campus/assets/112843229/699ca757-07a2-440e-876d-f8eff2d38360">
+<img width="910" alt="스크린샷 2023-11-08 오후 3 35 40" src="https://github.com/actorjung/Data_Youth_Campus/assets/112843229/033590ef-b1b5-4780-aa3c-a0e4a4d72331">
+<img width="910" alt="스크린샷 2023-11-08 오후 3 35 54" src="https://github.com/actorjung/Data_Youth_Campus/assets/112843229/6f6b2591-b0c8-4b14-b44b-3f7208f04fc7">
+
+---
  
 ## 6. 프로젝트 참여 인원 & Support
-- 김형후 [GitHub](https://github.com/Shaerrr)/E-mail: dcfjk1234@naver.com
+- 김형후
 - 강재훈 
 - 김소은
 - 김현동
 - 김화정
 - 임주연
 - 정우성
+
   
